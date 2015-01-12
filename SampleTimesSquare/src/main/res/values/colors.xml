@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="transparent">#00000000</color>
+    
+    
+    <color name="color_tension_low">#0072CF</color>
+    <color name="color_tension_mild">#02CE24</color>
+    <color name="color_tension_moderate">#FFDE00</color>
+    <color name="color_tension_high">#F89200</color>
+    <color name="color_tension_severe">#F73D04</color>
+    <color name="color_tension_text_active">#000000</color>
+</resources>
